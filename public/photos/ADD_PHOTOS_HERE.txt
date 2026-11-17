@@ -1,0 +1,1 @@
+Optional: add your own licensed photos here and configure paths, captions, and alternative text in data/birthday.ts. Empty paths show placeholders. Do not commit private photographs to a public repository.

@@ -1,0 +1,4 @@
+# Crawlers must be able to read the noindex meta tags and X-Robots-Tag headers.
+# This site and its assets must not be indexed.
+User-agent: *
+Allow: /
